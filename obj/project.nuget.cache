@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "YrmXJW5pC+E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dolma\\Desktop\\examasterbot\\examasterbot\\examasterbot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dolma\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\dolma\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "C:\\Users\\dolma\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\dolma\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\dolma\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0\\microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "C:\\Users\\dolma\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\dolma\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512",
+    "C:\\Users\\dolma\\.nuget\\packages\\telegram.bot\\22.7.6-dev.5\\telegram.bot.22.7.6-dev.5.nupkg.sha512"
+  ],
+  "logs": []
+}
