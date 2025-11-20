@@ -12,7 +12,7 @@ namespace examasterbot
             var storage = new CsvStorage("data");
             storage.LoadAll();
 
-            const String TOKEN = "8286117551:AAEzvy52gzPTS6oyZ8dbcgAgRucytmcIqog"; 
+            const String TOKEN = "YOUR TOKEN HERE!!!!!"; 
             var logic = new BotLogic(storage);
             var botService = new TelegramBotService(TOKEN, logic);
             await botService.StartAsync();
@@ -21,4 +21,5 @@ namespace examasterbot
             Console.ReadLine();
         }
     }
+
 }
